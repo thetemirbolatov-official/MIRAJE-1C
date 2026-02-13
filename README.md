@@ -29,7 +29,7 @@ https://mega.nz/file/G0IFhYjA#Uy0P-essntrSKxYb5O84EPEYUSC8KfBcvgD7quRJaZs
 - TELEGRAM: [thetemirbolatov](https://t.me/thetemirbolatov)
 - VK: [thetemirbolatov](https://vk.com/thetemirbolatov)
 - Instagram: [thetemirbolatov](https://instagram.com/thetemirbolatov)
-- GitHub: [ftoop17](https://github.com/ftoop17)
+- GitHub: [thetemirbolatov-official](https://github.com/thetemirbolatov-official)
 - Email: mirajestory@gmail.com
 
 

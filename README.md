@@ -1,9 +1,5 @@
  # MIRAJE-1С
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thetemirbolatov-official/MIRAJE-1C/main/logo.ico" alt="MIRAJE-1C Logo" width="200"/>
-</p>
-
 Приложение для Windows, которое быстро закрывает навязчивые уведомления в "1С:Бухгалтерии" и других программах.
 
 ## Возможности
